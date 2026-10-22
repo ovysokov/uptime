@@ -1,0 +1,9 @@
+# URL [ожидаемые коды через запятую; по умолчанию любой 2xx/3xx]
+https://dushnila-pro.ru/
+https://dushnila-pro.online/
+https://api.dushnila-pro.ru/auth/v1/health 401
+https://psycanvas.ru/
+https://api.psycanvas.ru/health
+https://polina-vysokova-psy.ru/
+https://polina-vysokova-psy.online/
+https://softwaretestlab.ru/
